@@ -14,4 +14,4 @@ env:
   DeployCommand: npm run deploy
   Organization: ProjectArchetype
   Repository: gatsby-hello-world
-  Output: /
+  Output: /hello-world
